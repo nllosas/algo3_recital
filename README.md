@@ -1,6 +1,6 @@
 ## Posible solución
 
-Esta solución no implementa el patrón double dispach **intensionalmente.**
+Esta solución implementa el patrón double dispach **intensionalmente.**
 
 [Enunciado](enunciado.pdf)
 
